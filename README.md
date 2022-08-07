@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jmcono
+- I am a student at Guilford Tech Community College. I am studying computer science and I want to try and document my progress with the languages I learn on GitHub.
+- My email is JosephMcono@gmail.com, feel free to reach out to me.
